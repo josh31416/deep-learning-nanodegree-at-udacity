@@ -4,3 +4,4 @@ This repo consists of my submitted projects for the Deep Learning Nanodegree pro
 
 - [Predicting bike-sharing patterns (MLP)](https://github.com/josh31416/deep_learning__udacity/tree/master/predicting_bikesharing_patterns)
 - [Dog breed classifier (CNNs)](https://github.com/josh31416/deep_learning__udacity/tree/master/dog_breed_classifier)
+- [Generating TV scripts (RNNs)](https://github.com/josh31416/deep_learning__udacity/tree/master/generating-tv-scripts)
